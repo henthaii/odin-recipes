@@ -1,1 +1,1 @@
-Come back to this later noob # odin-recipes
+This current project is covering the basic HTML language that uses the previous lessons. It was an exercise to use the HTML boilerplate religiously. Used some list features such as unordered and ordered. Inserted pictures and links to other pages as well. Overall, it was a good basic project to work with for what I've been learning in the foundations course. # odin-recipes
